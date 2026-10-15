@@ -1,0 +1,7 @@
+{
+  "name": "jarawork-aomi-prepare-only-example",
+  "private": true,
+  "type": "module",
+  "scripts": {"demo": "node demo.mjs", "test": "node --test release.test.mjs"},
+  "dependencies": {"viem": "2.57.6"}
+}
